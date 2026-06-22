@@ -1,16 +1,16 @@
 ## Hi there 👋
 
+I'm Pedro and am currently taking my masters in Computer Science Engineering @ Instituto Superior Técnico.
+
+- IST
+Click [here](https://github.com/pedroaldeia/IST) to see the projects I developed for my Bachelor's.
+
 <!--
-**pedroaldeia/pedroaldeia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Other stuff
+Investigation @ INESC-ID, developing a llm-assisted tool for building and executing web scrapers: [here](https://github.com/formalsec/webcap).
+My own website: https://web.tecnico.ulisboa.pt/pedroaldeia/
 -->
+
+- Reach Me!
+e-mail: psaldeia@gmail.com
+LinkedIn: https://www.linkedin.com/in/pedro-aldeia/
