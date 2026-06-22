@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Pedro and am currently taking my masters in Computer Science Engineering @ Instituto Superior Técnico.
+I'm Pedro and am currently taking my masters in Computer Science Engineering @ Instituto Superior Técnico and doing investigation @ INESC-ID.
+
 
 ### IST
 Click [here](https://github.com/pedroaldeia/IST) to see the projects I developed for my Bachelor's.
