@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Pedro and am currently taking my masters in Computer Science Engineering @ Instituto Superior Técnico and doing investigation @ INESC-ID.
+I'm Pedro and am currently taking my masters in Computer Science Engineering @ Instituto Superior Técnico and doing research @ INESC-ID.
 
 
 ### IST
