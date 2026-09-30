@@ -7,7 +7,7 @@ I'm Pedro and am currently taking my masters in Computer Science Engineering at 
 Click [here](https://github.com/pedroaldeia/IST) to see the projects I developed for my Bachelor's.
 
 ### Other stuff
-My own website: https://web.tecnico.ulisboa.pt/pedroaldeia/
+My own website: https://pedro.aldeia.rocks/
 <!--
 Investigation @ INESC-ID, developing a llm-assisted tool for building and executing web scrapers: [here](https://github.com/formalsec/webcap).
 -->
